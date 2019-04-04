@@ -4,6 +4,7 @@
   <test thread-count="100" name="Test_Branch">
   <classes>
   <class name = "Automation.Testing.TC01_AppiumIPADLogin"/>
+  <class name = "Automation.Testing.TC02_AppiumIPADLogin"/>
   </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
